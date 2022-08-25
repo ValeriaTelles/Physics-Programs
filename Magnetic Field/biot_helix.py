@@ -1,7 +1,3 @@
-# Name: Valeria Telles
-# Date: 2 March 2020
-# Program: biot_helix.py
-
 import numpy as np 
 import matplotlib.pyplot as plt
 import time as time
