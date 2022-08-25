@@ -1,7 +1,3 @@
-# Author: Valeria Telles
-# Date: 19 October 2020
-# Course: PHYS3230 - Quantum Mechanics I 
-
 import numpy as np
 import matplotlib.pyplot as plt
 
